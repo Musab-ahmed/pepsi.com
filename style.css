@@ -9,23 +9,23 @@
     display: flex;
     height: 650px;
 }
-.div1{
+.box1{
     width: 35%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-evenly;
 }
-.image1{
+.dex1{
     width: 90%;
     background-color: #0065c3;
 }
-.image1 img{
+.pepsi1{
     width: 100%;
     height: 100%;
     object-fit: cover;
 }
-.caption1{
+.text1{
     color: white;
     font-family: sofia pro black, Helvetica Neue, Helvetica, Arial, sans-serif;
     font-weight: bold;
@@ -34,16 +34,16 @@
     padding: 10px;
     line-height: 20px;
 }
-.image2{
+.dex2{
     width: 90%;
     background-color: #0065c3;
 }
-.image2 img{
+.pepsi2{
     width: 100%;
     height: 100%;
     object-fit: cover;
 }
-.caption2{
+.text2{
     color: white;
     font-family: sofia pro black, Helvetica Neue, Helvetica, Arial, sans-serif;
     font-weight: bold;
@@ -52,16 +52,16 @@
     padding: 10px;
     line-height: 20px;
 }
-.div2{
+.box2{
     width: 65%;
     position: relative;
 }
-.burgerimage{
+.foodimage{
     width: 100%;
     height: 100%;
     object-fit: cover;
 }
-.tagimage{
+.lineimage{
     position: absolute;
     bottom: 5%;
     right: 0;
